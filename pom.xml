@@ -16,6 +16,7 @@
 	<modules>
         <module>static-proxy</module>
 		<module>jdk-proxy</module>
+		<module>cglib-proxy</module>
     </modules>
 	
 	<build>
