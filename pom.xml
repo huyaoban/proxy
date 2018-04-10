@@ -15,6 +15,7 @@
 	
 	<modules>
         <module>static-proxy</module>
+		<module>jdk-proxy</module>
     </modules>
 	
 	<build>
